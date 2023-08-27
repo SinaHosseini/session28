@@ -6,10 +6,10 @@ A program to open webcam and apply some filters on your face that change with ke
 
 Draw a football pitch (football.py)
 
-![pic1](output\Football_image.jpg)
+![pic1](output\Football_image.jpg?raw=True)
 
 Program for read an image and count number of cats in it (cat_face.py)
 
 input:
-![pic2](input\cats.jpeg)
+![pic2](input\cats.jpeg?raw=True)
 output: 3
